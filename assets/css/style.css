@@ -6,14 +6,6 @@ Site web :
 
 */
 
-/* =========> CSS Settings <========= */
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 
 /* ============== Variables CSS ================ */
 
@@ -35,6 +27,9 @@ Site web :
     --text-90: 9rem; /* 90px */
 
 }
+
+
+/* =========> CSS Settings <========= */
 
 * {
     margin: 0;
