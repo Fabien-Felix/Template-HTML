@@ -43,3 +43,20 @@ body {
     /* Exemple prit dans :root "font size" */
 }
 
+
+
+/* =========> Media Query <========= */
+
+
+/* ==== Vue tablette (900px) ==== */
+
+@media screen and (max-width: 900px) {
+    /* code tablette */
+}
+
+
+/* ==== Vue mobile (500px) ==== */
+
+@media screen and (max-width: 500px){
+    /* code mobile */
+}
